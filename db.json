@@ -1,14 +1,11 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+ "PoplularSearches": [
+    { "id": 1, "title": "The Ritz Carlton Spa" },
+    { "id": 2, "title": "The Ritz Carlton Gym" },
+    { "id": 3, "title": "The Ritz Carlton Kids Club" },
+    { "id": 4, "title": "The Ritz Carlton Stays" },
+    { "id": 5, "title": "The Ritz Carlton Pool" },
+    { "id": 6, "title": "The Ritz Carlton Dining" },
+    { "id": 7, "title": "The Ritz Carlton Gym" }
+  ]
+}
