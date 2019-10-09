@@ -1,5 +1,149 @@
 {
- "PoplularSearches": [
+  "getUserProfile": {
+    "id": 1,
+    "firstName": "Jhone",
+    "lastName":"Harberd",
+    "email":"jhoneharberd@gmail.com",
+    "profileImageURL":"http://52.237.73.8/Upload/ClientAppImages/istock.png"
+  },
+  "getAppHome": [{
+    "categories": [{
+      "id": 1,
+      "name": "GYMS",
+      "count": 96,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/1.png",
+      "colorFrom": "#f63e00",
+      "colorTo": "#f69e00"
+    }, {
+      "id": 2,
+      "name": "SPAS",
+      "count": 45,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/2.png",
+      "colorFrom": "#129faa",
+      "colorTo": "#12cfaa"
+    }, {
+      "id": 3,
+      "name": "DINING & BARS",
+      "count": 281,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/3.png",
+      "colorFrom": "#8c00d9",
+      "colorTo": "#8f00d9"
+    }, {
+      "id": 4,
+      "name": "KIDS CLUB",
+      "count": 70,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/4.png",
+      "colorFrom": "#de0222",
+      "colorTo": " #de2222"
+    }, {
+      "id": 5,
+      "name": "BEACHES",
+      "count": 328,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/5.png",
+      "colorFrom": "#caa593",
+      "colorTo": "#cab593"
+    }, {
+      "id": 6,
+      "name": "POOLS",
+      "count": 83,
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/categories/6.png",
+      "colorFrom": "#000adc",
+      "colorTo": "#008adc"
+    }],
+    "membersFavourite": [{
+      "id": 1,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/1.png"
+    }, {
+      "id": 2,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/2.png"
+    }, {
+      "id": 3,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/3.png"
+    }, {
+      "id": 4,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/4.png"
+    }, {
+      "id": 5,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/5.png"
+    }, {
+      "id": 6,
+      "type": 1,
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/favourites/6.png"
+    }],
+    "property": [{
+      "id": 1,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }, {
+      "id": 2,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }, {
+      "id": 3,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }, {
+      "id": 4,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }, {
+      "id": 5,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }, {
+      "id": 6,
+      "type": 1,
+      "name": "Waldorf Astoria",
+      "location": "Ras Al Khaimah",
+      "logoURL": "http://52.237.73.8/Upload/ClientAppImages/Logo%20Image.png",
+      "imageURL": "http://52.237.73.8/Upload/ClientAppImages/Image%20container.png",
+      "accessName": "Unlimited Access",
+      "accessDescription": "Beach, Pool, Gym",
+      "offerName": "20% off",
+      "offerDescription": "Hotel, Dining, Bar, Spas"
+    }]
+  }],
+  "PoplularSearches": [
     { "id": 1, "title": "The Ritz Carlton Spa" },
     { "id": 2, "title": "The Ritz Carlton Gym" },
     { "id": 3, "title": "The Ritz Carlton Kids Club" },
