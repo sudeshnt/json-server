@@ -6,7 +6,7 @@
     "email":"jhoneharberd@gmail.com",
     "profileImageURL":"http://52.237.73.8/Upload/ClientAppImages/istock.png"
   },
-  "getAppHome": [{
+  "getAppHome": {
     "categories": [{
       "id": 1,
       "name": "GYMS",
@@ -142,7 +142,7 @@
       "offerName": "20% off",
       "offerDescription": "Hotel, Dining, Bar, Spas"
     }]
-  }],
+  },
   "PoplularSearches": [
     { "id": 1, "title": "The Ritz Carlton Spa" },
     { "id": 2, "title": "The Ritz Carlton Gym" },
